@@ -1,0 +1,24 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: gray;
+  font-style: italic;
+}
+body{
+  background-color: #e5e5ff;
+}
+h1 {
+  color: #d07c7c;
+  text-align:center;
+  font-weight: bold;
+  font-family:Times New Roman, Times, serif;
+}
+h2{
+  color: darkred;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
